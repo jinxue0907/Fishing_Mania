@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/jinxue0907/Fishing_Mania.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="jinxue &lt;w2024@e-mirim.hs.kr&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="jinxue &lt;w2024@e-mirim.hs.kr&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\jinxu\git\Fishing_Mania\.git">
+			<item value="false"/>
+			<item value="jinxue &lt;w2024@e-mirim.hs.kr&gt;"/>
+			<item value="dfdfdfd"/>
+			<item value="jinxue &lt;w2024@e-mirim.hs.kr&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="621"/>
+		<item key="DIALOG_Y_ORIGIN" value="155"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="541"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>
